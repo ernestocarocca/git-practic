@@ -10,7 +10,7 @@ export default function Home() {
         </h1>
         
 
-        <p className="text-3xl font-extrabold bg-gradient-to-r from-blue-400 to-green-400 bg-clip-text text-transparent">
+        <p className="text-6xl font-extrabold bg-gradient-to-r from-blue-400 to-green-400 bg-clip-text text-transparent">
           Git-Practis</p>
         
 
