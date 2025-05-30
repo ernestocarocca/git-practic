@@ -7,7 +7,7 @@ This repository is a practice project for learning Git and GitHub in a real-worl
 ## 📘 Git Commands and Workflow
 
 ### ✅ Initialize Git Repository
-```bash
+
 git init
 
 git add README.md
@@ -18,6 +18,19 @@ git commit -m "adjust paragraph font size test restore"
 
 git remote set-url origin https://github.com/ernestocarocca/git-practic.git
 git push -u origin main
+
+# Created new branch
+ -git checkout <branch-name>
+-did som changes 
+git add . 
+git commit -m "massage"
+git checkout main
+git pull origin main
+git merge my branch
+
+
+
+### Installed next js
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
