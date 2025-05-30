@@ -19,8 +19,6 @@ git commit -m "adjust paragraph font size test restore"
 git remote set-url origin https://github.com/ernestocarocca/git-practic.git
 git push -u origin main
 
-![Logo](public/images/image1.png)
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
