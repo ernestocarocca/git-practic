@@ -9,7 +9,11 @@ export default function Home() {
 
         </h1>
         
-        <p className="text-blue-700 text-3xl font-extrabold">Git-Practis</p>
+
+        <p className="text-3xl font-extrabold bg-gradient-to-r from-blue-400 to-green-400 bg-clip-text text-transparent">
+          Git-Practis</p>
+        
+
     </main>
 </div>
 
