@@ -7,26 +7,26 @@ This repository is a practice project for learning Git and GitHub in a real-worl
 ## 📘 Git Commands and Workflow
 
 ### ✅ Initialize Git Repository
-
+```bash
 git init
-
 git add README.md
 git commit -m "Add README with title"
-
 git commit -m "change size on font"
 git commit -m "adjust paragraph font size test restore"
-
 git remote set-url origin https://github.com/ernestocarocca/git-practic.git
 git push -u origin main
+```
 
 # Created new branch
- -git checkout <branch-name>
--did som changes 
+git checkout <branch-name>
+did som changes 
+```bash
 git add . 
 git commit -m "massage"
 git checkout main
 git pull origin main
 git merge my branch
+```
 
 
 
